@@ -16,15 +16,18 @@ Third Class (Pclass 3)
 🔍 The analysis shows that passengers in higher classes had significantly higher survival rates, highlighting how socio-economic status influenced access to lifeboats and safety during evacuation.
 
 📈 3. Make It Attractive: Visual Thinking with Charts To make insights easier to understand, data visualization techniques such as bar charts and pie charts are used.
+
 📊 3.1 Survival Rates by Passenger Class (Pclass) 
 Bar charts compare survival counts across classes
 Pie charts visually show survival proportions 
 👁️ These visuals help quickly identify patterns that may not be obvious from raw data.
+
 🚻 3.2 Analyzing Survival Rates by Gender (Sex) 
 Gender is analyzed to understand its impact on survival. 🔎 Key observations from the dataset:
 Female passengers show a lower survival rate
 Male passengers show a higher survival rate 
 📌 This indicates that gender plays a significant role in survival outcomes and is an important feature for analysis and machine learning predictions.
+
 🎂 3.3 Analyzing Survival Rates by Age (Age Grouping) 
 To better understand how age influenced survival, passengers’ ages are grouped into meaningful categories using feature engineering. Instead of analyzing individual ages, age groups are created to make patterns easier to identify and visualize.
 🧮 Age groups created using pd.cut():
