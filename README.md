@@ -18,8 +18,8 @@ Third Class (Pclass 3)
 📈 3. Make It Attractive: Visual Thinking with Charts To make insights easier to understand, data visualization techniques such as bar charts and pie charts are used.
 
 📊 3.1 Survival Rates by Passenger Class (Pclass) 
-Bar charts compare survival counts across classes
-Pie charts visually show survival proportions 
+     Bar charts compare survival counts across classes
+     Pie charts visually show survival proportions 
 👁️ These visuals help quickly identify patterns that may not be obvious from raw data.
 
 🚻 3.2 Analyzing Survival Rates by Gender (Sex) 
