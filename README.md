@@ -1,5 +1,6 @@
 # -Titanic-Dataset
 Exploring the Titanic Dataset: Feature Engineering &amp; ML in Python
+
 🚢 Exploring the Titanic Dataset: Feature Engineering & Machine Learning in Python (Beginner Level) The Titanic dataset is one of the most popular datasets used to introduce data analysis, feature engineering, and machine learning. It contains real passenger information from the Titanic disaster, making it ideal for learning how data can be cleaned, analyzed, visualized, and used to predict outcomes. In this project, we explore how different passenger features influenced survival using Python, Pandas, Matplotlib, and basic machine learning concepts.
 
 🧹 1. Data Cleaning: Fixing the Titanic Data Before It Sinks Our Analysis
@@ -10,9 +11,9 @@ Handling missing values (such as Age and Cabin) Removing or fixing incorrect and
 
 🎟️ 2. Analyzing Survival Rates by Passenger Class (Pclass) Passenger class played a major role in survival chances during the Titanic disaster.
 📊 Survival rates are analyzed across:
-First Class (Pclass 1)
-Second Class (Pclass 2) 
-Third Class (Pclass 3) 
+    First Class (Pclass 1)
+    Second Class (Pclass 2) 
+    Third Class (Pclass 3) 
 🔍 The analysis shows that passengers in higher classes had significantly higher survival rates, highlighting how socio-economic status influenced access to lifeboats and safety during evacuation.
 
 📈 3. Make It Attractive: Visual Thinking with Charts To make insights easier to understand, data visualization techniques such as bar charts and pie charts are used.
